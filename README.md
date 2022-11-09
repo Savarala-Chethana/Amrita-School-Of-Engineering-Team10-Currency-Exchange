@@ -12,9 +12,8 @@ Use USD as Base Currency where first currency will always be USD and second curr
 variable. For instance, currency pairs could be USD/INR, USD/GBP, USD/EUR, USD/CAD etc.
 
 Functional tasks:-
-➢ Read and store the data from file. 
-➢ Create a use interface which allows users to select currency and desired duration. Users 
+(1)Read and store the data from file. (2) Create a use interface which allows users to select currency and desired duration. Users 
 should have the ability to switch between weekly, monthly, quarterly, and annual charts. 
-➢ Fetch data for given currency and time duration. Show the trend over a given period. Also 
+(3) Fetch data for given currency and time duration. Show the trend over a given period. Also 
 display the date on which the rate was highest with the actual rate and date on which the 
 rate was lowest along with the rate
